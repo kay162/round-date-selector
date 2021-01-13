@@ -131,4 +131,4 @@ setInterval(function () { setDate(new Date()); }, 1000);
 
 ## License
 
-[GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html) © 2019 Fatih Kaymak
+[GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
